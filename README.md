@@ -1,7 +1,7 @@
 # 数値計算
 ![test](https://github.com/hiroki142/robosys_2022/actions/workflows/test.yml/badge.svg)
 
-##ダウンロード方法
+## ダウンロード方法
 * 操作
   ```
   $ git clone git@github.com:hiroki142/robosys_2022.git  #手元にリポジトリをコピー
