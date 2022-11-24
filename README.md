@@ -2,6 +2,7 @@
 * 足し算
 * 掛け算
 * 最小公倍数
+
 ![test](https://github.com/hiroki142/robosys_2022/actions/workflows/test.yml/badge.svg)
 
 ## ダウンロード方法
