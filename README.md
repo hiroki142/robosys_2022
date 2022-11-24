@@ -1,6 +1,14 @@
 # 数値計算
 ![test](https://github.com/hiroki142/robosys_2022/actions/workflows/test.yml/badge.svg)
 
+##ダウンロード方法
+* 操作
+  ```
+  $ git clone git@github.com:hiroki142/robosys_2022.git  #手元にリポジトリをコピー
+  $ cd robosys_2022/                                     #作られたディレクトリに移動
+  ```
+  このディレクトリ内で以下のコマンドを実行できる
+
 ## plusコマンド
 表準入力から読み込んだ数字を足す。
 * 使い方（例）
