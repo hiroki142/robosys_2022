@@ -4,8 +4,8 @@
 ## ダウンロード方法
 * 操作
   ```
-  $ git clone git@github.com:hiroki142/robosys_2022.git  #手元にリポジトリをコピー
-  $ cd robosys_2022/                                     #作られたディレクトリに移動
+  $ git clone https://github.com/hiroki142/robosys_2022.git  #手元にリポジトリをコピー
+  $ cd robosys_2022/                                         #作られたディレクトリに移動
   ```
   このディレクトリ内で以下のコマンドを実行できる
 
