@@ -36,15 +36,15 @@ out=$(echo | ./times)
 [ "${out}" = "" ] || ng ${LINENO}
 
 ### I/O ###
-out=$(seq 5 | ./LCM)
+out=$(seq 5 | ./lcm)
 [ "${out}" = 60 ] || ng ${LINENO}
 
 ### STRANGE INPUT ###
-out=$(echo あ | ./LCM)
+out=$(echo あ | ./lcm)
 [ "$?" = 1 ]      || ng ${LINENO}
 [ "${out}" = "" ] || ng ${LINENO}
 
-out=$(echo | ./LCM)
+out=$(echo | ./lcm)
 [ "$?" = 1 ]      || ng ${LINENO}
 [ "${out}" = "" ] || ng ${LINENO}
 
